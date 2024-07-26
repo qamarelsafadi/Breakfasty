@@ -1,0 +1,19 @@
+
+l
+<app/src/main/java/com/qamar/glancewithgemini/MainActivity.kt,a/2/a2b52c647faa156626beb73c43bbc9e71e5bde02
+l
+<app/src/main/java/com/qamar/glancewithgemini/BakingScreen.kt,5/d/5dc88a445d12e732076f23818c74a46f713ee0c1
+o
+?app/src/main/java/com/qamar/glancewithgemini/BakingViewModel.kt,1/8/186c4f074d1ee6d91f6fd4b398bcd85a17ae2e6a
+I
+gradle/libs.versions.toml,d/7/d7595319a0658be6f1ed500ad590d42e4b28bc4f
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+z
+Japp/src/main/java/com/qamar/glancewithgemini/glance/MyAppWidgetReceiver.kt,b/6/b6c9f0ac25af5c805c2a672e75d55d1e74983a12
+r
+Bapp/src/main/java/com/qamar/glancewithgemini/glance/MyAppWidget.kt,5/4/544f5e16f9f84b683d641ed40875013e64bb6a91
+g
+7app/src/main/java/com/qamar/glancewithgemini/UiState.kt,4/5/45dcd3d58dc76f938cc4b7607e0afda7a338c476
